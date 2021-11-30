@@ -1,0 +1,19 @@
+Package: ModelBased
+Type: Package
+Title: Classification par Modèle de Mélange
+Version: 0.1.0
+Authors@R: 
+    person("Hermann Joel", "Ngayap", , role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+    person("Vishwa", "Elankumaran", , "vishwa.elankumaran@univ-lyon2.fr", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Maintainer: The package maintainer <vishwa.elankumaran@univ-lyon2.fr>
+Description: Réalisation d'une classification par modèle de mélange
+License: Apache 2.0
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+NeedsCompilation: no
+Packaged: 2021-11-28 18:16:53 UTC; vishwa
+Author: Vishwa Elankumaran [aut, cre] (YOUR-ORCID-ID)
